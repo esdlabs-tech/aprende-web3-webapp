@@ -1,6 +1,6 @@
 # Aprende Web 3
 
-![Logo](./assets\logo.png)
+![Logo](https://i.imgur.com/g47jbpg.png)
 
 ## Descripción
 Aprende Web 3 es una WebApp para todas las personas que desean aprender los conceptos básicos de la blockchain y Web 3, como para aquellos que buscan acceso rápido a guías para comenzar a desarrollar y comenzar proyectos en casi cualquier blockchain.
@@ -24,7 +24,7 @@ Si tienes alguna sugerencia sobre la Web-App, o si te gustaría colaborar te agr
 ## Capturas de Pantalla
 
 ![Pantalla Principal](https://i.imgur.com/THwbGWf.jpeg)
-![Lecciones](./assets\lecciones.jpg)
+![Lecciones](https://i.imgur.com/J7yqLuR.jpeg)
 
 ## Enlace a la WebApp
 [¡Prueba la aplicación aquí!](https://aprendeweb3.glide.page)
