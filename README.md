@@ -29,6 +29,8 @@ Si tienes alguna sugerencia sobre la Web-App, o si te gustaría colaborar te agr
 ## Enlace a la WebApp
 [¡Prueba la aplicación aquí!](https://aprendeweb3.glide.page)
 
+## Historial de Cambios
+
 
 
 ## Licencia
